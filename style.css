@@ -741,7 +741,7 @@ menu div.active {
     pointer-events: all;
 }
 
-menu div:nth-child(3) {
+menu div:nth-child(6) {
     box-shadow: 0 20px 14px -16px rgb(255, 68, 68) !important;
 }
 
